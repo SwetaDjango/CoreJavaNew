@@ -1,2 +1,1 @@
-# CoreJavaNew
-Core Java Code
+"# Java" 
